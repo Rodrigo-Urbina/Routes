@@ -1,0 +1,29 @@
+{
+  "name": "routes",
+  "version": "1.0.0",
+  "description": "npm install uuid",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodrigo-Urbina/Routes.git"
+  },
+  "author": "Rodrigo Urbina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rodrigo-Urbina/Routes/issues"
+  },
+  "homepage": "https://github.com/Rodrigo-Urbina/Routes#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "query-string": "^6.4.2",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "routes"
+  ]
+}
